@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/colorManager.cs">
+    <Files>
+      <File FileName="Assets/changeName.cs" Line="35" Column="37" />
+      <File FileName="Assets/colorManager.cs" Line="16" Column="4" />
+      <File FileName="Assets/GetandSetText.cs" Line="14" Column="1" />
+      <File FileName="Assets/TouchDetection.cs" Line="14" Column="26" />
+      <File FileName="Assets/GameInformation.cs" Line="37" Column="1" />
+      <File FileName="Assets/saveInformation.cs" Line="19" Column="37" />
+      <File FileName="Assets/loadInformation.cs" Line="15" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Isabel/Documents/School/CS491/A Reminder/Assets/Name.cs" line="3" column="1" />
+      <Breakpoint file="/Users/Isabel/Documents/School/CS491/A Reminder/Assets/Name.cs" line="4" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
